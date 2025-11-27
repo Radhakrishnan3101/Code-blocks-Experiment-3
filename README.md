@@ -1,4 +1,4 @@
-# Code-blocks-Experiment-3
+# 10 Study of socket programming and client-server model Code-blocks
 STUDY OF SOCKET PROGRAMMING AND CLIENT SERVER MODEL
 # Socket Programming: Client-Server Data Transfer
 
@@ -128,6 +128,12 @@ int main() {
     WSACleanup();
     return 0;
 }
-    
+
+## OUTPUT
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42012e33-82f0-4210-8658-2c277810b9b2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f586eae-2f29-40a0-b72f-1bdcb39d06e8" />
+ 
 ## 🎯 RESULT
 Thus, a socket program was successfully written to transfer data between client and server, and its performance was studied.
